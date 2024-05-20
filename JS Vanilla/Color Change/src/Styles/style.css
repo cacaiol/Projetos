@@ -1,14 +1,10 @@
 /*
-=============== 
 Fonts
-===============
 */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
 /*
-=============== 
 Variables
-===============
 */
 
 :root {
@@ -54,9 +50,7 @@ Variables
   --fixed-width: 620px;
 }
 /*
-=============== 
 Global Styles
-===============
 */
 
 *,
@@ -152,9 +146,7 @@ main {
 }
 
 /*
-=============== 
 Nav
-===============
 */
 nav {
   background: var(--clr-white);

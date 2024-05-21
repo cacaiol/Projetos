@@ -6,10 +6,10 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/cacaiol/Projetos?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/cacaiol/Projetos?style=for-the-badge)
 
-<img src="simples.png" alt="Exemplo imagem">
-<img src="hexadecimal.png" alt="Exemplo imagem">
+<img src="bg-login" alt="Exemplo imagem">
 
-> Projeto de troca de cores do plano de fundo. Este projeto revisa os conceitos de manipulação de DOM e Eventos.
+
+> Projeto de uma tela de login responsiva. 
 
 ## 📫 Contribuindo
 

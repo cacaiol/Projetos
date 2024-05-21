@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/cacaiol/Projetos?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/cacaiol/Projetos?style=for-the-badge)
 
-<img src="bg-login" alt="Exemplo imagem">
+<img src="Login.png" alt="Exemplo imagem">
 
 
 > Projeto de uma tela de login responsiva. 

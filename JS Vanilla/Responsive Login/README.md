@@ -1,96 +1,29 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## Responsive Login
 
+![GitHub repo size](https://img.shields.io/github/repo-size/cacaiol/Projetos?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/cacaiol/Projetos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cacaiol/Projetos?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/cacaiol/Projetos?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/cacaiol/Projetos?style=for-the-badge)
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/cacaiol/responsive-login">
-  
-  </a>
+<img src="simples.png" alt="Exemplo imagem">
+<img src="hexadecimal.png" alt="Exemplo imagem">
 
-<h3 align="center">Responsive Login</h3>
+> Projeto de troca de cores do plano de fundo. Este projeto revisa os conceitos de manipulação de DOM e Eventos.
 
-  <p align="center">
-    Uma tela de login com os conceitos de responsividade aplicados.
-    <br />
-    <a href="https://github.com/cacaiol/responsive-login"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/cacaiol/responsive-login">View Demo</a>
-    ·
-    <a href="https://github.com/cacaiol/responsive-login/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/cacaiol/responsive-login/issues">Request Feature</a>
-  </p>
-</div>
+## 📫 Contribuindo
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Índice</summary>
-  <ol>
-    <li>
-      <a href="#sobre-o-projeto">Sobre o Projeto</a>
-      <ul>
-        <li><a href="#construído-com">Construído com</a></li>
-      </ul>
-    </li>
-    </li>
-    <li><a href="#contribuição">Contribuição</a></li>
-    <li><a href="#contatos">Contatos</a></li>
-  </ol>
-</details>
+Para contribuir com Responsive Login, siga estas etapas:
 
-<!-- ABOUT THE PROJECT -->
-## Sobre o Projeto
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/107950801/210680175-60958eef-9ac8-467f-8708-784cfad05125.png" width="350px">
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-</div>
-<br/>
+## 📝 Licença
 
-           A representação de uma tela de login responsiva.  
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-
-<!-- CONTRIBUTING -->
-## Contribuição
-
-As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
-
-Se você tiver uma sugestão para melhorar isso, bifurque o repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag "melhoria".
-Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
-## Contatos
-
-Caio Fernandes - [@cacaiozz](https://www.instagram.com/cacaiozz/) - caiocdwork@gmail.com
-
-Link do Projeto: [https://github.com/cacaiol/responsive-login](https://github.com/cacaiol/responsive-login)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/cacaiol/multistep-form/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/cacaiol/multistep-form/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/cacaiol/multistep-form/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/caio-fernandes-174570194/

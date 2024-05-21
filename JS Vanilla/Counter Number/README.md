@@ -1,4 +1,4 @@
-# Color Changer 
+# Counter Number
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cacaiol/Projetos?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/cacaiol/Projetos?style=for-the-badge)

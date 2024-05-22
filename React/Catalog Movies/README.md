@@ -1,10 +1,9 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![GitHub repo size](https://img.shields.io/github/repo-size/cacaiol/Projetos?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/cacaiol/Projetos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cacaiol/Projetos?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/cacaiol/Projetos?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/cacaiol/Projetos?style=for-the-badge)
 
 
 
@@ -65,26 +64,12 @@
 <br/>
 
 
-           Uma representação de um catálogo de filmes construído com React.JS e suas bibliotecas como, react-icons 
+           Um catálogo de filmes construído com React.JS e suas bibliotecas como, react-icons 
            para os estilização e react-router-dom para tratar as rotas do catálogo.  
 
 ### Construído com
 
 * [![React][React.js]][React-url]
-
-<!-- GETTING STARTED -->
-## Começando
-
-Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente.
-Para colocar uma cópia local em funcionamento, siga estas etapas de exemplo simples.
-
-### Pré-requisitos
-
-Este é um exemplo de como listar as coisas que você precisa para usar o software e como instalá-las.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Instalação
 
@@ -104,18 +89,17 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
 
 
 <!-- CONTRIBUTING -->
-## Contribuição
+## 📫 Contribuindo
 
-As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
+Para contribuir com Catalog Movies, siga estas etapas:
 
-Se você tiver uma sugestão para melhorar isso, bifurque o repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag "melhoria".
-Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
 <!-- LICENSE -->
@@ -124,34 +108,9 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
 
 
-<!-- CONTACT -->
-## Contatos
-
-Caio Fernandes - [@cacaiozz](https://www.instagram.com/cacaiozz/) - caiocdwork@gmail.com
-
-Link do Projeto: [https://github.com/cacaiol/catalog-movies](https://github.com/cacaiol/catalog-movies)
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/cacaiol/catalog-movies/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/cacaiol/catalog-movies/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/cacaiol/catalog-movies/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/caio-fernandes-174570194/
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+
 

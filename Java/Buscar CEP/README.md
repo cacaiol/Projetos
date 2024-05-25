@@ -6,8 +6,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/cacaiol/Projetos?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/cacaiol/Projetos?style=for-the-badge)
 
-<img src=".png" alt="Exemplo imagem">
-<img src=".png" alt="Exemplo imagem">
+<img src="Tela 1.png" alt="Exemplo imagem">
+<img src="Tela 2.png" alt="Exemplo imagem">
+<img src="tela 3.png" alt="Exemplo imagem">
 
 > Projeto de troca de cores do plano de fundo. Este projeto revisa os conceitos de manipulação de DOM e Eventos.
 

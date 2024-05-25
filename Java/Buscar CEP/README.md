@@ -10,7 +10,11 @@
 <img src="Tela 2.png" alt="Exemplo imagem">
 <img src="tela 3.png" alt="Exemplo imagem">
 
-> Projeto de troca de cores do plano de fundo. Este projeto revisa os conceitos de manipulação de DOM e Eventos.
+> Projeto de um Buscador de CEP feito em Java nativo com Swing. Consumindo a API do Republica Virtual
+
+## API 
+
+A API utilizada no projeto -> https://www.republicavirtual.com.br/cep/
 
 ## 📫 Contribuindo
 
